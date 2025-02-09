@@ -26,3 +26,37 @@ A página de contato incluirá um formulário funcional e uma imagem do local pa
 3. Objetivo do Projeto
 O objetivo do projeto "Roupa & Estilo" é criar um site que represente a identidade da marca, oferecendo uma plataforma online onde os clientes possam visualizar os produtos, conhecer mais sobre a empresa e entrar em contato de forma prática.
 Com uma interface atrativa e interativa, o site facilitará a navegação e tornará a experiência do usuário mais agradável, contribuindo para a fidelização dos clientes e o crescimento do negócio.
+
+1.1 Objetivo
+
+O Objetivo do projeto é desenvolver um site funcional e organizado que ofereça:
+ 
+Uma experiência de navegação fluída e intuitiva.
+Informações detalhadas sobre os produtos e a loja.
+Formulário de contato eficiente para comunicação direta com a loja.
+
+1.2 Escopo
+
+O projeto “Roupa & Estilo” visa criar um site para uma loja de roupas que permitirá:
+
+Exibição de produtos em um carrossel interativo.
+Páginas dedicadas para informações sobre a loja e conteúdo diversificado.
+Um formulário de contato com suporte e geolocalização utilizando Open Street Map. O sistema será voltado para os clientes da loja e administradores responsáveis pela manutenção do conteúdo.
+
+
+1.3   Definições, Acrônimos e Abreviações
+
+HTML: HyperText Markup Language;
+CSS: Cascading Style Sheets;
+JS: JavaScript;
+Bootstrap: Biblioteca CSS responsiva.
+
+1.4   Público-alvo
+
+Este documento destina-se a:
+
+Equipe de desenvolvimento;
+Gerentes de projeto;
+Stakeholders (proprietários da loja);
+Usuários finais (clientes).
+
