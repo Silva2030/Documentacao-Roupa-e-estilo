@@ -8,6 +8,7 @@ Caso de Uso 1: Visualizar Home (Usuário)
 Ator: Usuário (Cliente)
 Objetivo: O usuário acessa a página inicial do site e visualiza os destaques de produtos, coleções em promoção e novidades da loja.
 Descrição:
+
 O usuário acessa a página principal do site.
 Ao carregar a Home, o sistema exibe um slideshow com imagens rotativas que mostram:
 Produtos em destaque
