@@ -1,6 +1,6 @@
   4.  Diagrama de Caso de Uso
 
-  
+![Alt text](draw.io.PNG)
 
   4.1  Descrição de Caso de Uso
 

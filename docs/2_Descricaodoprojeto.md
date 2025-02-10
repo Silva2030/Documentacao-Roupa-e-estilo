@@ -8,6 +8,8 @@ Benefícios incluem:
 
 2.1.1   Canvas do Projeto
 
+![Alt text](jack.PNG)
+
 2.2   Stakeholders
 
 Proprietário da Loja(Gabriel e Lucimar) - Define as necessidades do site e aprova o design;
