@@ -1,4 +1,4 @@
-# 5 - Diagram de classe
+# 5 - Diagrama de classe
 
 Diagram de classe
 
