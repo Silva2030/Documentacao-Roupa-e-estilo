@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
+  name: Gabriel da silva e Lucimar mateus inseschi
+  text: Roupa & Estilo
   tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
   actions:
     - theme: brand
