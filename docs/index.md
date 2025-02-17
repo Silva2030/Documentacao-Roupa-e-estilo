@@ -7,9 +7,9 @@ hero:
   tagline: Simples, poderoso e de alto desempenho. Descubra a moderna loja de Roupas e Estilo que você sempre quis.
   actions:
     - theme: brand
-      text: 
+      text: Vamos começar
       link: /example
     - theme: alt
-      text: View on GitHub
+      text: Ver no github
       link: https://github.com/vuejs/vitepress
 ---
