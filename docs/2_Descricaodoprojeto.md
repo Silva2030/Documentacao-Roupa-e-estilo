@@ -8,7 +8,7 @@ Benefícios incluem:
 
 2.1.1   Canvas do Projeto
 
-![Canvas Do projeto](img/Canvas-PPW.PNG)
+![Canvas Do projeto](img/Canvas-PPW.png)
 
 2.2   Stakeholders
 
