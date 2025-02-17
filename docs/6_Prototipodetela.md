@@ -1,5 +1,8 @@
 6. Protótipos de Telas
 
+![Prototipo de tela](img/FIGMA.png)
+https://www.figma.com/community/file/1473402243143856231
+
   6.1   Home
 
 Apresenta um slideshow interativo com imagens de  promoções e destaques da loja.

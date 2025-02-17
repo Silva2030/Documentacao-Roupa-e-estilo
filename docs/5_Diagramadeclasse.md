@@ -1,3 +1,3 @@
 Diagram de classe
 
-![Alt text](<Página 2 Draw.io.PNG>)
+![Diagrama de classe](img/Diagramadeclasse.png)
